@@ -1,6 +1,6 @@
 # ToDo App
 
-A modern iOS task management application built with Swift, featuring a sophisticated theme management system and clean architecture.
+A modern iOS task management application built with Swift, featuring a sophisticated theme management system and clean architecture. This project marks my first experience with SwiftUI and modern iOS development practices.
 
 ## Features
 
@@ -10,6 +10,8 @@ A modern iOS task management application built with Swift, featuring a sophistic
 - **Core Data**: Robust data persistence layer for task management
 - **Scene-Based Architecture**: Modern iOS app structure utilizing `UIWindowScene` for better window management
 - **Theme Management System**: Advanced theme switching capabilities with system-wide application
+- **SwiftUI Integration**: First experience with SwiftUI, combining it with UIKit for enhanced UI development
+- **Charts Framework**: Integration of the popular Charts library for data visualization
 
 ### Theme Management System
 
@@ -38,6 +40,22 @@ The app features a sophisticated theme management system implemented through `Th
 - Efficient data retrieval and display
 - Custom sorting and filtering options
 
+### SwiftUI & Charts Implementation
+
+The app incorporates modern iOS development practices:
+
+- **Hybrid UI Approach**: Combining UIKit and SwiftUI for optimal performance and flexibility
+- **Charts Integration**: 
+  - Beautiful data visualization using the Charts framework
+  - Custom chart configurations for task statistics
+  - Interactive chart elements with user feedback
+  - Dynamic data updates and animations
+- **SwiftUI Learning Journey**:
+  - First experience with declarative UI programming
+  - Implementation of SwiftUI views alongside UIKit components
+  - State management using SwiftUI's property wrappers
+  - Custom SwiftUI components development
+
 ### Technical Highlights
 
 - **Scene-Based Window Management**: Advanced understanding of iOS window and scene hierarchy
@@ -45,6 +63,8 @@ The app features a sophisticated theme management system implemented through `Th
 - **Protocol-Oriented Programming**: Clean interfaces for component communication
 - **Extension-Based Utilities**: Swift extensions for enhanced functionality
 - **Observer Pattern**: Efficient state management and UI updates
+- **Modern UI Development**: First-hand experience with SwiftUI and Charts framework
+- **Data Visualization**: Professional-grade charts and graphs for task statistics
 
 ## Architecture
 
