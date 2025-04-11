@@ -1,0 +1,15 @@
+{
+  "originHash" : "7f4fdcc775a33126a8aeae766f296a0615e6d350742c5cb77b2d90df187fc3b5",
+  "pins" : [
+    {
+      "identity" : "splarkcontroller",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ivanvorobei/SPLarkController",
+      "state" : {
+        "revision" : "43a7cb50d8369fa04e8a252f2e5c277fb95ab6f1",
+        "version" : "1.2.1"
+      }
+    }
+  ],
+  "version" : 3
+}
